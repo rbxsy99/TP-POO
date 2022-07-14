@@ -1,0 +1,8 @@
+Continente Planicie 5 1 1
+Continente Montanha 6 1 1
+Continente Fortaleza 8 1 1
+Continente Mina 5 1 1
+Continente Duna 4 1 1
+Continente Castelo 7 1 1
+Ilhas Refugio 9 1 1
+Ilhas Pescaria 9 1 1
